@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\Adventure.cs" />
+     <Compile Include="Assets\scripts\GuessingGameAmazing.cs" />
      <Compile Include="Assets\scripts\HelloWorld.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
