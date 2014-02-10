@@ -47,8 +47,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\Adventure.cs" />
+     <Compile Include="Assets\scripts\Blockly.cs" />
+     <Compile Include="Assets\scripts\CCMove.cs" />
+     <Compile Include="Assets\scripts\CharacterControllerIsGrounded.cs" />
      <Compile Include="Assets\scripts\GuessingGameAmazing.cs" />
      <Compile Include="Assets\scripts\HelloWorld.cs" />
+     <Compile Include="Assets\scripts\SolutionDemo.cs" />
+     <Compile Include="Assets\scripts\SolutionLab.cs" />
+     <Compile Include="Assets\scripts\mariocamera.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
