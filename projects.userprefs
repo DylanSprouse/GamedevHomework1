@@ -1,11 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\mariocamera.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Generator.cs">
     <Files>
-      <File FileName="Assets\scripts\mariocamera.cs" Line="20" Column="3" />
-      <File FileName="Assets\scripts\CharacterControllerIsGrounded.cs" Line="1" Column="1" />
-      <File FileName="Assets\scripts\CCMove.cs" Line="30" Column="4" />
-      <File FileName="Assets\scripts\GuessingGameAmazing.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Generator.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Generator.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\tenprint.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
